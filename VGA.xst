@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/nimer/Documents/GitHub/Testing/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/nimer/Documents/GitHub/Testing/xst"
+elaborate
+-ifn VGA.prj
+-ifmt mixed

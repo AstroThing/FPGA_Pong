@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/nimer/Documents/GitHub/Testing/digit_0_Test_isim_beh.exe" -prj "C:/Users/nimer/Documents/GitHub/Testing/digit_0_Test_beh.prj" "work.digit_0_Test" "work.glbl" 

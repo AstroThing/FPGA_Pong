@@ -1,0 +1,4 @@
+verilog work "ROM_0.v"
+verilog work "P1_Win_ROM.v"
+verilog work "CLK_DIV.v"
+verilog work "Main.v"

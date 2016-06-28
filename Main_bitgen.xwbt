@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\nimer\Documents\GitHub\Testing\Main.ncd
+OUTFILE=C:\Users\nimer\Documents\GitHub\Testing\Main.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5ft256
+WORKINGDIR=C:\Users\nimer\Documents\GitHub\Testing
+LICENSE=WebPack
+USER_INFO=__0_0_0

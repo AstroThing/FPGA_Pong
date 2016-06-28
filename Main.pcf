@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Jun 27 18:48:39 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "Reset" LOCATE = SITE "G12" LEVEL 1;
+COMP "hsync" LOCATE = SITE "M1" LEVEL 1;
+COMP "vsync" LOCATE = SITE "R1" LEVEL 1;
+COMP "pixel<0>" LOCATE = SITE "P2" LEVEL 1;
+COMP "pixel<1>" LOCATE = SITE "P1" LEVEL 1;
+COMP "pixel<2>" LOCATE = SITE "L5" LEVEL 1;
+COMP "P1_Right" LOCATE = SITE "C12" LEVEL 1;
+COMP "P1_Press" LOCATE = SITE "B16" LEVEL 1;
+COMP "P2_Right" LOCATE = SITE "C13" LEVEL 1;
+COMP "P2_Press" LOCATE = SITE "J11" LEVEL 1;
+COMP "P1_Left" LOCATE = SITE "C10" LEVEL 1;
+COMP "P2_Left" LOCATE = SITE "D12" LEVEL 1;
+NET "clk_IBUFG1" BEL "clk_IBUFG_BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+
